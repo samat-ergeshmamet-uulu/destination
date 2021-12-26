@@ -1,0 +1,64 @@
+body{
+    padding:0;
+    min-width: 600px;
+    max-width: 1000px;
+    margin: auto;
+  }
+  div {
+    border: 1px solid grey;
+    height: 100%;
+    margin:1%;
+    box-shadow: 10px 10px 22px 0px rgba(0,0,0,0.75);
+  }
+  header{
+  margin:0%;
+  position: relative;
+    height: 600px;
+}
+  main {
+    margin: 2% 0;
+  position: relative;
+  height: 500px;
+  }
+  .first {
+    width: 62%;
+    position: absolute;
+
+  }
+  .second {
+    width: 30%;
+    left: 64%;
+    position: absolute;
+  }
+  .third {
+    width: 30%;
+    position: absolute;
+    left: 0;
+  }
+  .fourth {
+    width: 30%;
+    position: absolute;
+    left: 32%;
+  }
+  .fifth {
+    width: 30%;
+    position: absolute;
+    left:64%;
+
+  }
+  img {
+    width:100%;
+  }
+  h1,p {
+      padding: 20px;
+  }
+  button {
+    font-size: 20px;
+    background-color: darkgrey;
+    color: white;
+    border: none;
+    width:90%;
+    margin: 0px 5%;
+    padding: 10px 0px;
+      
+  }
